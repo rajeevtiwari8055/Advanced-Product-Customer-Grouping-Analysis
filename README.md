@@ -1,4 +1,4 @@
-# 👥📦 Advanced Product Customer Grouping Analysis Project  
+# 👥📦 Advanced Product Customer Grouping Analysis
 
 ## 📑 Table of Contents  
 
