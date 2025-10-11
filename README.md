@@ -1,7 +1,5 @@
 # 👥📦 Advanced Product Customer Grouping Analysis Project  
 
----
-
 ## 📑 Table of Contents  
 
 - <a href="#project-overview">📖 Project Overview</a>  
@@ -86,8 +84,6 @@ To transform the customer table into a **comma-separated text list**, created a 
 
 This formula combines all customer names who purchased a specific product into a single cell, separated by commas.  
 
----
-
 ### **6. Loading Cleaned Data**  
 
 After transformation, used **Close & Load To → Excel Sheet** to export the summarized table back to Excel.  
@@ -135,7 +131,7 @@ The final result was a **clean, analysis-ready dataset** suitable for product-cu
 | `Product Customer Sales Data.csv` | Raw data file generated for the project. |
 | `Advanced Product Customer Analysis.pdf` | Step-by-step project explanation and logic breakdown. |
 | `Advanced Product Customer Analysis.pptx` | Step-by-step project explanation and logic breakdown. |
-| `Project Overview.png` | Image showing the cleaned and summarized final dataset. |
+| `Project Overview.png` | Image showing the Project Overview. |
 
 ---
 
