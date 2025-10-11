@@ -131,11 +131,11 @@ The final result was a **clean, analysis-ready dataset** suitable for product-cu
 
 | File / Folder | Description |
 |----------------|-------------|
-| `Advanced Product Customer Grouping Analysis.xlsx` | Main Excel workbook with Power Query transformations. |
-| `SampleData.csv` | Raw data file generated for the project. |
-| `Project Documentation.pdf` | Step-by-step project explanation and logic breakdown. |
-| `Power Query Formula.png` | Snapshot of the custom formula used for combining customer names. |
-| `Final Output Preview.png` | Image showing the cleaned and summarized final dataset. |
+| `Product Customer Sales Data.xlsx` | Main Excel workbook with Power Query transformations. |
+| `Product Customer Sales Data.csv` | Raw data file generated for the project. |
+| `Advanced Product Customer Analysis.pdf` | Step-by-step project explanation and logic breakdown. |
+| `Advanced Product Customer Analysis.pptx` | Step-by-step project explanation and logic breakdown. |
+| `Project Overview.png` | Image showing the cleaned and summarized final dataset. |
 
 ---
 
